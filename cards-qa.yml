@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to bank cards QA service "
+  contactDetails:
+    name: "Lokesh Yogi- Java Developer"
+    email: "{cipher}9d35340d3b26d8d7f1c9632854f931be40dc811e2050ba909961a69bbbbfebe3de32957bf74b2d3c5ca411ade7804412"
+  onCallSupport:
+    - 1234567890
