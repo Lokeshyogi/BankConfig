@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-accounts:
+cards:
   message: "Welcome to bank cards service"
   contactDetails:
     name: "Lokesh Yogi- Java Developer"
